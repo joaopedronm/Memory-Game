@@ -19,11 +19,11 @@ Here are the languages used in this project:
 
 ### 1 - Open the file index.HTML and you'll be redirected to the game's login page. Now all you have to do it's to type your Warrior Name ⚔️
 
-![Login Page](https://github.com/joaopedronm/Memory-Game)
+![Login Page](https://github.com/joaopedronm/Memory-game/blob/main/screenshots/01-login.png)
 
 ### 2 - Ready! Now you can play the game. Click on the cards, find the pairs and in the end of the game the Browser'll show your game time: ⏲️
 
-![Game Page](https://github.com/joaopedronm/Memory-Game)
+![Game Page](https://github.com/joaopedronm/Memory-game/blob/main/screenshots/02-jogo.png)
 
   ## Authors
 
